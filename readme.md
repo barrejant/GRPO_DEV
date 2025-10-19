@@ -1,6 +1,6 @@
 # Comprehensive GRPO Fine-Tuning & Evaluation
 
-This repository provides a Python script for fine-tuning Large Language Models (LLMs) using Generalized Reinforcement-based Preference Optimization (GRPO).
+This repository provides a Python script for fine-tuning Large Language Models (LLMs) using Group Relative Policy Optimization (GRPO).
 
 The script is built using `unsloth` for highly efficient 4-bit PEFT (LoRA) training and integrates with `trl`'s `GRPOTrainer`. A key feature of this script is its comprehensive, built-in evaluation framework. It automatically benchmarks the model's performance on a wide range of metrics *before* and *after* training, providing a clear and detailed comparison of the improvements.
 
