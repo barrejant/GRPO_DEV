@@ -47,3 +47,12 @@ You can run the entire training and evaluation pipeline by executing the script 
 
 ```bash
 python extended_train_grpo_pub.py [OPTIONS]
+```
+
+## Author
+barrejant
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+This license permits unrestricted use, distribution, and modification, provided the original copyright notice is included.
